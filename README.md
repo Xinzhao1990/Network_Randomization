@@ -1,5 +1,5 @@
-# Randomization_and_network_analysis
+# Randomization and network analysis
 
 Example:
 
-![Example](Rplot.png "Example")
+![Example](Rplot.png "Example"
