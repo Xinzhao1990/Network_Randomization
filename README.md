@@ -2,4 +2,4 @@
 
 Example:
 
-![Example](Rplot.png "Example"
+![Example](Rplot.png "Example")
